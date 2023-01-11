@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-Salih
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning all stuff
+- 🌱 I’m currently working at CMA CGM
 - 📫 How to reach me: Discord:Komrade#4832
 
 <!---
